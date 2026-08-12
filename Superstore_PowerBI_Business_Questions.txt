@@ -1,0 +1,81 @@
+SUPERSTORE SALES DATASET – BUSINESS QUESTIONS FOR POWER BI DASHBOARD
+
+EXECUTIVE SUMMARY QUESTIONS
+1. What is the total sales revenue?
+2. What is the total profit generated?
+3. How many orders were processed?
+4. How many customers made purchases?
+5. What is the average order value?
+6. What is the total shipping cost incurred?
+7. What is the overall profit margin?
+
+SALES PERFORMANCE QUESTIONS
+8. How have sales trended over time?
+9. Which months generate the highest sales?
+10. Which years recorded the highest revenue?
+11. What are the top 10 products by sales?
+12. What are the top 10 products by profit?
+13. Which products generate high sales but low profit?
+14. Which products are underperforming?
+
+PRODUCT ANALYSIS QUESTIONS
+15. Which product categories generate the most sales?
+16. Which product categories generate the most profit?
+17. Which sub-categories contribute the highest revenue?
+18. Which sub-categories contribute the highest profit?
+19. Which products have the highest profit margins?
+20. Which products are making losses?
+
+CUSTOMER ANALYSIS QUESTIONS
+21. Who are the top customers by sales?
+22. Who are the most profitable customers?
+23. Which customer segment generates the most revenue?
+24. Which customer segment generates the highest profit?
+25. What is the average spending per customer?
+26. Which customers receive the highest discounts?
+
+REGIONAL ANALYSIS QUESTIONS
+27. Which regions generate the highest sales?
+28. Which regions gene rate the highest profit?
+29. Which states/provinces contribute the most revenue?
+30. Which states/provinces are least profitable?
+31. Which regions have the highest shipping costs?
+32. Which regions are experiencing losses?
+
+ORDER & SHIPPING ANALYSIS QUESTIONS
+33. Which shipping mode is used most frequently?
+34. Which shipping mode generates the highest profit?
+35. What is the average delivery time?
+36. Does faster shipping increase profitability?
+37. How much shipping cost is incurred by each shipping mode?
+38. Which shipping method is most cost-effective?
+
+DISCOUNT ANALYSIS QUESTIONS
+39. How do discounts affect profit?
+40. Which products receive the highest discounts?
+41. Which categories are most heavily discounted?
+42. At what discount level does profitability start to decline?
+43. Are discounted orders more likely to result in losses?
+
+PROFITABILITY ANALYSIS QUESTIONS
+44. What factors drive profitability?
+45. Which categories have the highest profit margins?
+46. Which regions have the highest profit margins?
+47. Which products generate losses despite strong sales?
+48. What is the relationship between sales and profit?
+
+RETURN ANALYSIS QUESTIONS
+49. What is the overall return rate?
+50. Which products are returned most frequently?
+51. Which categories have the highest return rates?
+52. Which regions experience the most returns?
+53. How do returns impact profitability?
+54. Which customers return products most often?
+
+ADVANCED DASHBOARD QUESTIONS
+55. Which combination of Region and Category produces the highest profit?
+56. Which customer segment buys which product category the most?
+57. What are the sales and profit forecasts for the next year?
+58. Which products should the business promote more?
+59. Which products should be discontinued?
+60. What strategic actions can management take to increase profitability?
